@@ -1,0 +1,142 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    list-style: none;
+}
+
+header{
+    background: url(images/back.jpg);
+    width: 100%;
+    min-height: 100vh;
+    background-size: cover;
+    color: white
+}
+
+nav{
+    padding: 20px 5%;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+nav .logo{
+    width: 100px;   
+}
+
+nav .logo img{
+    width: 100px;
+}
+
+nav ul{
+    display: flex;
+}
+
+nav ul li{
+    padding: 12px 25px;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 5px;
+    transition: 0.3x;
+    cursor: pointer;
+}
+
+nav ul li:hover{
+    background: #bc6772;
+}
+
+.icons{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.icons i{
+    font-size: 26px;
+}
+
+/* main section */
+main{
+    display: flex;
+    padding: 0 5%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.left-section{
+    width: 50%;
+}
+
+.left-section h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: #170d03;
+}
+
+.left-section p{
+    font-size: 17px;
+    line-height: 24px;
+    padding: 20px 0;
+}
+
+button{
+    padding: 12px 35px;
+    background: #ca6f06a1;
+    color: #edeae3;
+    font-weight: 650;
+    cursor: pointer;
+    font-style: 17px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+button:hover{
+    background: #e27405
+}
+
+
+.right-section{
+    width: 50%;
+}
+
+.right-section img{
+    width: 100%;
+    height: 410px;
+    object-fit: contain;
+}
+
+.right-section h1{
+    font-size: 50px;
+    font-weight: 800;
+    color: #170d03;
+}
+
+.circleIcon{
+    display: none !important;
+}
+
+@media (max-width: 780px){
+    nav ul{
+        position: fixed;
+        flex-direction: column;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        background: #edeae3;
+        color: black;
+        padding: 20px;
+        width: 210px;
+        gap: 10px;
+        align-items: start;
+    }
+    nav ul li{
+        display: block;
+        padding: 0;
+        padding-block: 5px;
+    }
+    nav ul li:hover{
+        background: transparent;
+        color: #bc9667;
+    }
+}
