@@ -21,7 +21,6 @@ HTML5: Semantic structure for accessibility.
 CSS3: Custom themes, animations, and transitions.
 # OUTPUT
 ![Image](https://github.com/user-attachments/assets/c0ae1678-518a-439d-bf43-9ee6a85b4073)
-![Image](https://github.com/user-attachments/assets/05bb7bc0-670a-4b30-b6b3-7f727a356b55)
 ![Image](https://github.com/user-attachments/assets/2d90d3e8-cd24-4b4a-b277-d47b150f5f34)
 
 ![Image](https://github.com/user-attachments/assets/359ec6c8-da85-4ceb-9867-80aa91506adb)
@@ -29,6 +28,8 @@ CSS3: Custom themes, animations, and transitions.
 ![Image](https://github.com/user-attachments/assets/969318ae-3700-4b43-8e86-7181bc6182fa)
 ![Image](https://github.com/user-attachments/assets/935af888-03d9-439d-b252-ddfc2e3af4a0)
 # OUTPUT:!BELOW PICS
+![Image](https://github.com/user-attachments/assets/7fd84fbc-914a-4982-8738-22828936bf75)
+Use This Run->source code Output->file:///C:/Users/Ajay%20Kumar/Downloads/coffee%20images/index.html
 
 
 
