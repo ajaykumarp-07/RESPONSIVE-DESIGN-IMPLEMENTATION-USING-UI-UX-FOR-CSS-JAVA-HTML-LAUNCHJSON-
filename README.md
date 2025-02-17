@@ -12,9 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-##DESCRIPTION:The redesign enhances the UI/UX of an existing website or application using HTML, CSS, and JavaScript. The focus is on improving usability, responsiveness, and visual appeal.
-
-Key Enhancements:
+##DESCRIPTION:The redesign enhances the UI/UX of an existing website or application using HTML, CSS, and JavaScript.
 Modern UI: Clean layout, consistent typography, and improved visual hierarchy.
 Responsive Design: CSS Flexbox, Grid, and media queries for seamless adaptation across devices.
 Better UX: Streamlined navigation, improved user flows, and interactive elements.
